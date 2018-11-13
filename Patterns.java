@@ -32,6 +32,8 @@ public class Patterns
 			
 		Scanner scan = new Scanner(System.in);
 		
+		System.out.println(num + ", ");
+		
 		System.out.println("insert guess here");
 		
 		int input = scan.nextInt();
