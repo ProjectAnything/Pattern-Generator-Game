@@ -32,7 +32,7 @@ public class Patterns
 			
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println(num + ", ");
+		System.out.println(start + ", ");
 		
 		System.out.println("insert guess here");
 		
