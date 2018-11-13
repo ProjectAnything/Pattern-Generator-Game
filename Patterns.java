@@ -4,10 +4,10 @@ import java.util.Math;
 
 public class Patterns
 {
-	public static void main (String[] args) throws InterruptedException
+	public static void main (String[] args)
 	{
 		System.out.println("Hello!");
-		System.out.println("Welcome to the Number Patterns Game.");
+		System.out.println("Welcome to the Pattern Generator Game.");
 		
 		int num = (int)(Math.random()*10+1);
 		
